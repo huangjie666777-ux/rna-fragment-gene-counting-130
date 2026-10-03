@@ -1,0 +1,6 @@
+##description demo annotation
+chr1	demo	exon	11	40	.	+	.	gene_id "GENE_A";
+chr1	demo	exon	31	60	.	+	.	gene_id "GENE_A";
+chr1	demo	exon	101	130	.	+	.	gene_id "GENE_A";
+chr1	demo	exon	201	230	.	-	.	gene_id "GENE_B";
+chr1	demo	exon	301	330	.	+	.	gene_id "GENE_C";
